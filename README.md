@@ -1,0 +1,1 @@
+This is a Discord bot I'm building for a server I'm part of to help moderate some types of content that are typically not allowed on the server, without human moderators having to constantly keep an eye on the multiple channels the server has.
